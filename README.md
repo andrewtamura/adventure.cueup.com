@@ -1,11 +1,11 @@
 Andrew Tamura
 March 16, 2013
 
-Code for http://adventure.cueup.com/
+#Code for http://adventure.cueup.com/
 
-Challenge #1: MTH$RANDOM
-Challenge #2: Parse
-Challenge #3: Troll Map
-Bonus: Alternative MTH$RANDOM
+1. Challenge #1: MTH$RANDOM
+2. Challenge #2: Parse
+3. Challenge #3: Troll Map
+4. Bonus: Alternative MTH$RANDOM
 
 
