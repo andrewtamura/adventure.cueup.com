@@ -12,16 +12,9 @@ n, e, e, n, e, e, w, n, n, e
 def main():
     troll_map = TrollMap()
     troll_map.solve(35, (4,0), [(4,0)])     
-        
-class Move():
-    position = None
-    
-    def __init__(self, position):
-        self.position = position
-            
-        
+     
+   
 class TrollMap():
-
     maze = [ [8, 8, 4, 4, 5], 
             [4, 9, 6, 4, 8], 
             [8, 6, 4, 1, 2], 
@@ -29,10 +22,7 @@ class TrollMap():
             [0, 6, 8, 8, 4] ]
     height = len(maze)
     width = len(maze[0])
-    start_pos = (4, 0)
     end_pos = (0, 4)
-    start_tokens = 35
-    move_queue = []
     
     def __init__(self):
         pass
