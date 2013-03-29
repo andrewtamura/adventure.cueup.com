@@ -8,4 +8,4 @@ March 16, 2013
 3. Challenge #3: Troll Map
 4. Bonus: Alternative MTH$RANDOM
 
-
+jobs+wow+stunningly+exquisite+victory+for+the+ages@cueup.com
